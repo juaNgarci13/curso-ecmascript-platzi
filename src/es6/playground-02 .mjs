@@ -4,4 +4,4 @@ async function solution() {
     return await getData().then(list => console.log(list))
 }
 
-solution();
+solution(); 
