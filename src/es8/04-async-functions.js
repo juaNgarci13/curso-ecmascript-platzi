@@ -16,4 +16,5 @@ console.log("Before");
 anotherFunc();
 console.log("After");
 
+// async y await
 
