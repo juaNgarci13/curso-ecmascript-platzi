@@ -11,5 +11,8 @@
     "ecmascript"
   ],
   "author": "Juan M. García <jm2180810\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b@.gmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.3.0"
+  }
 }
